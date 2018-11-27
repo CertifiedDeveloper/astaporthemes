@@ -1,3 +1,3 @@
 # astaporthemes
-This is WordPress Dinning theme of astaporthemes.
-I will provide this for free.
+These are WordPress themes from astaporthemes.
+I will provide these for free.
